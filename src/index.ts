@@ -24,4 +24,34 @@ console.log(
     )
 );
 
+program
+    .version('0.0.1')
+    .description("An example CLI for listing products with video previews")
+    .option('-g, --gender <enumerable[male | female]>', 'Gender category')
+    .option('-p, --page <number>', 'Page number')
+    .option('-ps, --page_size <number>', 'Results per page')
+    .option('-s, --sort <string>', 'Default sort order of products')
+    .parse(process.argv);
 
+console.log('Retriving products that match query string...');
+
+const query_string = {
+    "gender": program.gender,
+    "page": program.page,
+    "page_size": program.page_size,
+    "sort": program.sort
+}
+
+const url:URL= new URL(`${api_root_url}${api_products_endpoint}`);
+url.search = new URLSearchParams(query_string).toString();
+
+console.log(url.toString());
+
+axios.get(url.toString())
+  .then((response:AxiosResponse) => {
+    console.log(response.data);
+
+  })
+  .catch((error:AxiosError) => {
+    console.log(error);
+  });
