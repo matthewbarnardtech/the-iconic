@@ -52,7 +52,8 @@ axios.get(url.toString())
   .then((response:AxiosResponse) => {
       let json:any = response.data;
       let products:Product[] = json._embedded.product;
-    console.log(products);
+      products.sort(function(a,b){return b.video_count - a.video_count});
+    console.log(products.map(({video_count})=>({video_count})));
 
   })
   .catch((error:AxiosError) => {
