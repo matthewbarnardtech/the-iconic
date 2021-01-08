@@ -2,6 +2,7 @@
 
 import { AxiosError, AxiosResponse } from "axios";
 import { URL } from "url";
+import Product from "./interfaces/product"
 
 const chalk = require('chalk');
 const clear = require('clear');
@@ -49,7 +50,9 @@ console.log(url.toString());
 
 axios.get(url.toString())
   .then((response:AxiosResponse) => {
-    console.log(response.data);
+      let json:any = response.data;
+      let products:Product[] = json._embedded.product;
+    console.log(products);
 
   })
   .catch((error:AxiosError) => {
