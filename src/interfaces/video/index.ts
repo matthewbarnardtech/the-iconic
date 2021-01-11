@@ -1,3 +1,4 @@
+// Video interface referenced in product interface
 import VideoUrl from "./video_url";
 
 interface Video {

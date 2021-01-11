@@ -1,3 +1,4 @@
+// Marketing interface referenced in product interface
 interface Marketing {
     type: string,
     short: string,

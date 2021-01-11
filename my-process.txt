@@ -1,0 +1,15 @@
+Establish core requirements.
+    Console Application
+    Read data from API
+    Add video preview URL to object and write to out.json
+    Ensure output is ordered by video preview presence
+Looked at root URL without parameters for documentation
+No documentation found
+Went to search results route with search query string
+Formatted output to view format
+Structured code for CLI configuration
+Added interfaces for data structure
+Thought: Given another language I would have used a decorator but they are not available to TypeScript interfaces
+Added consumer class to add video to data where relevant
+Added readme
+Moved network (API) calls to a service

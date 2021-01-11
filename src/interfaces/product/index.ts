@@ -1,3 +1,4 @@
+// Product interface referenced from ProductList constructor
 import Video from "../video";
 import Image from "./image";
 import Marketing from "./marketing";
