@@ -19,6 +19,6 @@ s - sort
 
 
 Example:
-the-iconic -g female -p 1 -ps 70 -s popularity
+`the-iconic -g female -p 1 -ps 70 -s popularity`
 
 
