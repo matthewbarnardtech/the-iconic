@@ -1,8 +1,10 @@
+import Video from "../video";
 import Image from "./image";
 import Marketing from "./marketing";
 import Shop from "./shop";
 interface Product {
     video_count: number;
+    video?: Video;
     price: number;
     markdown_price: number;
     special_price: number;

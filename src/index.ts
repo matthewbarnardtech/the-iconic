@@ -2,6 +2,7 @@
 
 import { AxiosError, AxiosResponse } from "axios";
 import { URL } from "url";
+import ProductList from "./classes/product_list";
 import Product from "./interfaces/product"
 
 const chalk = require('chalk');
@@ -18,7 +19,7 @@ const api_products_endpoint: string = "/catalog/products";
 clear();
 // Start logging output
 console.log(
-    //Make the text red
+    // Make the text red
     chalk.red(
         // Pretty print the title
         figlet.textSync('The Iconic CLI', { horizontalLayout: 'full' })
@@ -49,11 +50,15 @@ url.search = new URLSearchParams(query_string).toString();
 console.log(url.toString());
 
 axios.get(url.toString())
-  .then((response:AxiosResponse) => {
+  .then(async (response:AxiosResponse) => {
       let json:any = response.data;
-      let products:Product[] = json._embedded.product;
-      products.sort(function(a,b){return b.video_count - a.video_count});
-    console.log(products.map(({video_count})=>({video_count})));
+      let product_list = new ProductList(json._embedded.product);
+      await product_list.decorateVideo();
+      // await product_list.decorateVideo();
+
+      // products.sort(function(a,b){return b.video_count - a.video_count});
+    console.log(product_list.products.map(({video_count, price, video})=>({video_count, price, video})));
+    // console.log(product_list.products)
 
   })
   .catch((error:AxiosError) => {
