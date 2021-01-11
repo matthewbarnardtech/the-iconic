@@ -30,6 +30,11 @@ class ProductList {
         this.products.sort(function (a, b) { return b.video_count - a.video_count });
     }
 
+    writeToFile() {
+        fs.writeFile('./out.json', JSON.stringify(this.products), (err:Error) => {
+            if (err) throw err;
+        });
+    }
 }
 
 export default ProductList;

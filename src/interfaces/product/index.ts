@@ -5,7 +5,6 @@ import Shop from "./shop";
 
 interface Product {
     video_count: number,
-    // video:Video,
     video?: Video,
     price: number,
     markdown_price: number,
@@ -93,6 +92,3 @@ interface Product {
 }
 
 export default Product
-
-
-

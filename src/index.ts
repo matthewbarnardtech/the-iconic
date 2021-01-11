@@ -3,12 +3,10 @@
 import { AxiosError, AxiosResponse } from "axios";
 import { URL } from "url";
 import ProductList from "./classes/product_list";
-import Product from "./interfaces/product"
 
 const chalk = require('chalk');
 const clear = require('clear');
 const figlet = require('figlet');
-const path = require('path');
 const program = require('commander');
 const axios = require('axios');
 
@@ -53,13 +51,11 @@ axios.get(url.toString())
   .then(async (response:AxiosResponse) => {
       let json:any = response.data;
       let product_list = new ProductList(json._embedded.product);
+      console.log('Decorating videos...')
       await product_list.decorateVideo();
-      // await product_list.decorateVideo();
-
-      // products.sort(function(a,b){return b.video_count - a.video_count});
-    console.log(product_list.products.map(({video_count, price, video})=>({video_count, price, video})));
-    // console.log(product_list.products)
-
+      console.log('Writing file...')
+      product_list.writeToFile();
+      console.log('Products saved to ./out.json');
   })
   .catch((error:AxiosError) => {
     console.log(error);
