@@ -1,7 +1,7 @@
 // Main class responsible for data manipulation, including adding video, sorting and writing output to file
 const fs = require('fs');
 import { AxiosError, AxiosResponse } from "axios";
-import Product from "../interfaces/product";
+import { Product } from "../interfaces/product";
 import API from "../services/api";
 
 class ProductList {
@@ -36,9 +36,10 @@ class ProductList {
     }
 
     // Class method that writes the resulting decorated & sorted array to file
-    writeToFile() {
+    writeToFile(callback?: Function) {
         fs.writeFile('./out.json', JSON.stringify(this.products), (err: Error) => {
             if (err) throw err;
+            callback!();
         });
     }
 }

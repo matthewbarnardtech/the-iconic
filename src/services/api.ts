@@ -7,9 +7,10 @@ class API {
     static readonly api_rooted_products_endpoint: string = `${API.api_root_url}${API.api_products_endpoint}`;
 
     // Get a list of products from the API that matches the flags sent from /src/index.ts
-    static getProducts(query: Record<string, string>) {
+    static getProducts(query: Record<string, string> | null) {
         const url: URL = new URL(API.api_rooted_products_endpoint);
-        url.search = new URLSearchParams(query).toString();
+        if (query !== null)
+            url.search = new URLSearchParams(query).toString();
         return axios.get(url.toString())
     }
 

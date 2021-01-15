@@ -92,4 +92,11 @@ interface Product {
     }
 }
 
-export default Product
+// User defined type guard for interface type testing
+// We can use a discriminator here but that would affect the output rendered to out.json
+// Instead I added a type guard against the most vital 3 properties
+function instanceOfProduct(object: any): object is Product {
+    return ('name' in object && 'sku' in object && 'price' in object);
+}
+
+export {Product, instanceOfProduct}

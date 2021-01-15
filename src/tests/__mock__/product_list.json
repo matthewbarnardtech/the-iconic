@@ -1,0 +1,1147 @@
+[
+    {
+        "video_count": 0,
+        "price": 50,
+        "markdown_price": 50,
+        "special_price": 0,
+        "returnable": true,
+        "final_sale": false,
+        "stock_update": null,
+        "final_price": 50,
+        "sku": "AS787AA70OQN",
+        "name": "Logo Cotton Crew Tee",
+        "ribbon": "new",
+        "messaging": {
+            "marketing": [
+                {
+                    "type": "new",
+                    "short": "New",
+                    "medium": "New arrival",
+                    "long": "New arrival",
+                    "color": "#42ABC8",
+                    "url": null
+                }
+            ],
+            "operational": []
+        },
+        "color_name_brand": "Green",
+        "short_description": "<b>Assembly Label</b> designs and delivers simplified, well-made apparel and accessories for an audience who craves a relaxed coastal lifestyle.<br><br>\nLength: 72cm (size AU 8). Our model is 175.3cm (5’9”) tall with a 78.7cm (31”) bust, a 61.0cm (24”) waist and 90.2cm (35.5”) hips.\n<br><br>\n- Pure cotton jersey; natural stretch<br>\n- Brand print to front",
+        "shipment_type": "WH",
+        "color_name": "Green",
+        "color_hex": "#cbd9c3",
+        "cart_price_rules": null,
+        "attributes": null,
+        "simples": null,
+        "sustainability": null,
+        "link": "logo-cotton-crew-tee-1133543.html",
+        "activated_at": "2021-01-15 10:11:58",
+        "return_policy_message": {
+            "message": "This product qualifies for 30 day free returns",
+            "bold_substring": "free returns"
+        },
+        "categories_translated": "Clothing|T-Shirts and Singlets|Printed T-Shirts|T-Shirts",
+        "category_path": null,
+        "category_ids": null,
+        "related_products": null,
+        "image_products": null,
+        "attribute_set_identifier": "AA",
+        "supplier": "Modern Standard",
+        "wannaby_id": null,
+        "citrus_ad_id": null,
+        "associated_skus": "",
+        "size_guide_url": "https://www.theiconic.com.au/index/sizeguidemain?for=AA&brand=Assembly+Label&gender=female",
+        "related": {
+            "count": 3,
+            "label": "Colour",
+            "visible": true,
+            "message": "More colours available"
+        },
+        "variants": {
+            "count": 3,
+            "label": "Colour",
+            "visible": true,
+            "message": "More colours available"
+        },
+        "campaign_details": null,
+        "_embedded": {
+            "brand": {
+                "id": 787,
+                "name": "Assembly Label",
+                "url_key": "assembly",
+                "image_url": "http://static.theiconic.com.au/b/assembly.jpg",
+                "banner_url": null,
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/brands/assembly"
+                    }
+                }
+            },
+            "gender": {
+                "id": 2,
+                "name": "female",
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/genders/female"
+                    }
+                }
+            },
+            "shops": [
+                {
+                    "is_default": true,
+                    "name": "shop",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/shop"
+                        }
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "url": "http://static.theiconic.com.au/p/assembly-2361-3453311-1.jpg",
+                    "thumbnail": "//static.theiconic.com.au/p/assembly-2361-3453311-1.jpg"
+                }
+            ]
+        },
+        "_links": {
+            "self": {
+                "href": "https://eve.theiconic.com.au/catalog/products/AS787AA70OQN"
+            }
+        }
+    },
+    {
+        "video_count": 0,
+        "price": 230,
+        "markdown_price": 230,
+        "special_price": 0,
+        "returnable": true,
+        "final_sale": false,
+        "stock_update": null,
+        "final_price": 230,
+        "sku": "NI126SF58ERH",
+        "name": "Air Zoom Vomero 15 - Women's",
+        "ribbon": "new",
+        "messaging": {
+            "marketing": [
+                {
+                    "type": "new",
+                    "short": "New",
+                    "medium": "New arrival",
+                    "long": "New arrival",
+                    "color": "#42ABC8",
+                    "url": null
+                }
+            ],
+            "operational": []
+        },
+        "color_name_brand": "White, Crimson Pulse, Crimson Tint & Black",
+        "short_description": "American sportswear giant <b>Nike</b> has established an inimitable reputation for performance and innovation. Combining a technical understanding of an athlete’s needs with a strong eye for style, <b>Nike</b> has become the go-to for professional and amateur athletes alike.&nbsp;<br><br>- Knitted mesh upper<br>- Air Zoom unit and ZoomX foam delivers for responsive cushioning&nbsp;<br>- Durable outsole for traction",
+        "shipment_type": "WH",
+        "color_name": "White, Crimson Pulse, Crimson Tint & Black",
+        "color_hex": "#ffffff",
+        "cart_price_rules": null,
+        "attributes": null,
+        "simples": null,
+        "sustainability": null,
+        "link": "air-zoom-vomero-15-women-s-1109645.html",
+        "activated_at": "2021-01-13 09:52:30",
+        "return_policy_message": {
+            "message": "This product qualifies for 30 day free returns",
+            "bold_substring": "free returns"
+        },
+        "categories_translated": "Shoes|Running|Performance Shoes",
+        "category_path": null,
+        "category_ids": null,
+        "related_products": null,
+        "image_products": null,
+        "attribute_set_identifier": "SF",
+        "supplier": "NIKE AUSTRALIA PTY LTD",
+        "wannaby_id": null,
+        "citrus_ad_id": null,
+        "associated_skus": "",
+        "size_guide_url": "https://www.theiconic.com.au/index/sizeguidemain?for=SF&brand=Nike&gender=female",
+        "related": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "variants": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "campaign_details": null,
+        "_embedded": {
+            "brand": {
+                "id": 126,
+                "name": "Nike",
+                "url_key": "nike",
+                "image_url": "http://static.theiconic.com.au/b/nike.jpg",
+                "banner_url": null,
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/brands/nike"
+                    }
+                }
+            },
+            "gender": {
+                "id": 2,
+                "name": "female",
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/genders/female"
+                    }
+                }
+            },
+            "shops": [
+                {
+                    "is_default": false,
+                    "name": "sports",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/sports"
+                        }
+                    }
+                },
+                {
+                    "is_default": true,
+                    "name": "shop",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/shop"
+                        }
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "url": "http://static.theiconic.com.au/p/nike-1106-5469011-1.jpg",
+                    "thumbnail": "//static.theiconic.com.au/p/nike-1106-5469011-1.jpg"
+                }
+            ]
+        },
+        "_links": {
+            "self": {
+                "href": "https://eve.theiconic.com.au/catalog/products/NI126SF58ERH"
+            }
+        }
+    },
+    {
+        "video_count": 0,
+        "price": 230,
+        "markdown_price": 230,
+        "special_price": 0,
+        "returnable": true,
+        "final_sale": false,
+        "stock_update": null,
+        "final_price": 230,
+        "sku": "NI126SF10SLX",
+        "name": "Zoom Fly 3 - Women's",
+        "ribbon": "new",
+        "messaging": {
+            "marketing": [
+                {
+                    "type": "new",
+                    "short": "New",
+                    "medium": "New arrival",
+                    "long": "New arrival",
+                    "color": "#42ABC8",
+                    "url": null
+                }
+            ],
+            "operational": []
+        },
+        "color_name_brand": "White, Metallic Silver, Racer Blue & Cyber",
+        "short_description": "American sportswear giant <b>Nike </b>has established an inimitable reputation for performance and innovation.\n<br><br>- Lightweight mesh upper; inner perforated sleeve detail<br>- Snug collar<br>- Carbon-infused launchpad<br>-  Large Swoosh print to lateral side<br>- Rubberised forefoot and heel for durability<br>- Arch band attached to the laces helps take pressure off your instep<br>-  Nike React midsole for cushioning and responsiveness",
+        "shipment_type": "WH",
+        "color_name": "White, Metallic Silver, Racer Blue & Cyber",
+        "color_hex": "#ffffff",
+        "cart_price_rules": null,
+        "attributes": null,
+        "simples": null,
+        "sustainability": null,
+        "link": "zoom-fly-3-women-s-1109644.html",
+        "activated_at": "2021-01-13 09:52:30",
+        "return_policy_message": {
+            "message": "This product qualifies for 30 day free returns",
+            "bold_substring": "free returns"
+        },
+        "categories_translated": "Shoes|Running|Performance Shoes",
+        "category_path": null,
+        "category_ids": null,
+        "related_products": null,
+        "image_products": null,
+        "attribute_set_identifier": "SF",
+        "supplier": "NIKE AUSTRALIA PTY LTD",
+        "wannaby_id": null,
+        "citrus_ad_id": null,
+        "associated_skus": "",
+        "size_guide_url": "https://www.theiconic.com.au/index/sizeguidemain?for=SF&brand=Nike&gender=female",
+        "related": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "variants": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "campaign_details": null,
+        "_embedded": {
+            "brand": {
+                "id": 126,
+                "name": "Nike",
+                "url_key": "nike",
+                "image_url": "http://static.theiconic.com.au/b/nike.jpg",
+                "banner_url": null,
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/brands/nike"
+                    }
+                }
+            },
+            "gender": {
+                "id": 2,
+                "name": "female",
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/genders/female"
+                    }
+                }
+            },
+            "shops": [
+                {
+                    "is_default": false,
+                    "name": "sports",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/sports"
+                        }
+                    }
+                },
+                {
+                    "is_default": true,
+                    "name": "shop",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/shop"
+                        }
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "url": "http://static.theiconic.com.au/p/nike-1060-4469011-1.jpg",
+                    "thumbnail": "//static.theiconic.com.au/p/nike-1060-4469011-1.jpg"
+                }
+            ]
+        },
+        "_links": {
+            "self": {
+                "href": "https://eve.theiconic.com.au/catalog/products/NI126SF10SLX"
+            }
+        }
+    },
+    {
+        "video_count": 0,
+        "price": 240,
+        "markdown_price": 240,
+        "special_price": 0,
+        "returnable": true,
+        "final_sale": false,
+        "stock_update": null,
+        "final_price": 240,
+        "sku": "NI126SF59NJW",
+        "name": "Pegasus Trail 2 GORE-TEX - Women's",
+        "ribbon": "new",
+        "messaging": {
+            "marketing": [
+                {
+                    "type": "new",
+                    "short": "New",
+                    "medium": "New arrival",
+                    "long": "New arrival",
+                    "color": "#42ABC8",
+                    "url": null
+                }
+            ],
+            "operational": []
+        },
+        "color_name_brand": "Smoke Grey, Black, Bucktan & College Grey",
+        "short_description": "American sportswear giant <b>Nike</b> has established an inimitable reputation for performance and innovation. Combining a technical understanding of an athlete’s needs with a strong eye for style, <b>Nike</b> has become the go-to for professional and amateur athletes alike. With a roster that spans apparel, shoes and accessories suitable for any and every athletic pursuit, <b>Nike</b> has positioned themselves as a leader in their field with an extensive range that encompasses every aspect of a healthy lifestyle. From performance footwear to printed tights to moisture wicking running shorts, their extensive range of athletic products is designed to help keep you at the top of your game.<br><br>-&nbsp;GORE-TEX Invisible Fit technology to upper; waterproof; quick-drying<br>- Full-length Nike React foam cushioning<br>- Patterned rubber outsole; traction to heel and toe",
+        "shipment_type": "WH",
+        "color_name": "Smoke Grey, Black, Bucktan & College Grey",
+        "color_hex": "#a6a6a6",
+        "cart_price_rules": null,
+        "attributes": null,
+        "simples": null,
+        "sustainability": null,
+        "link": "pegasus-trail-2-gore-tex-women-s-1109641.html",
+        "activated_at": "2021-01-13 09:52:30",
+        "return_policy_message": {
+            "message": "This product qualifies for 30 day free returns",
+            "bold_substring": "free returns"
+        },
+        "categories_translated": "Shoes|Running|Performance Shoes",
+        "category_path": null,
+        "category_ids": null,
+        "related_products": null,
+        "image_products": null,
+        "attribute_set_identifier": "SF",
+        "supplier": "NIKE AUSTRALIA PTY LTD",
+        "wannaby_id": null,
+        "citrus_ad_id": null,
+        "associated_skus": "",
+        "size_guide_url": "https://www.theiconic.com.au/index/sizeguidemain?for=SF&brand=Nike&gender=female",
+        "related": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "variants": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "campaign_details": null,
+        "_embedded": {
+            "brand": {
+                "id": 126,
+                "name": "Nike",
+                "url_key": "nike",
+                "image_url": "http://static.theiconic.com.au/b/nike.jpg",
+                "banner_url": null,
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/brands/nike"
+                    }
+                }
+            },
+            "gender": {
+                "id": 2,
+                "name": "female",
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/genders/female"
+                    }
+                }
+            },
+            "shops": [
+                {
+                    "is_default": false,
+                    "name": "sports",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/sports"
+                        }
+                    }
+                },
+                {
+                    "is_default": true,
+                    "name": "shop",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/shop"
+                        }
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "url": "http://static.theiconic.com.au/p/nike-1084-1469011-1.jpg",
+                    "thumbnail": "//static.theiconic.com.au/p/nike-1084-1469011-1.jpg"
+                }
+            ]
+        },
+        "_links": {
+            "self": {
+                "href": "https://eve.theiconic.com.au/catalog/products/NI126SF59NJW"
+            }
+        }
+    },
+    {
+        "video_count": 0,
+        "price": 190,
+        "markdown_price": 190,
+        "special_price": 0,
+        "returnable": true,
+        "final_sale": false,
+        "stock_update": null,
+        "final_price": 190,
+        "sku": "NI126SF06STD",
+        "name": "React Miler - Women's",
+        "ribbon": "new",
+        "messaging": {
+            "marketing": [
+                {
+                    "type": "new",
+                    "short": "New",
+                    "medium": "New arrival",
+                    "long": "New arrival",
+                    "color": "#42ABC8",
+                    "url": null
+                }
+            ],
+            "operational": []
+        },
+        "color_name_brand": "Black, Metallic Silver, Violet Dust & Sunset Pulse",
+        "short_description": "American sportswear giant <b>Nike</b> has established an inimitable reputation for performance and innovation. Combining a technical understanding of an athlete’s needs with a strong eye for style, <b>Nike</b> has become the go-to for professional and amateur athletes alike. With a roster that spans apparel, shoes and accessories suitable for any and every athletic pursuit, <b>Nike</b> has positioned themselves as a leader in their field with an extensive range that encompasses every aspect of a healthy lifestyle. From performance footwear to printed tights to moisture wicking running shorts, their extensive range of athletic products is designed to help keep you at the top of your game.<br><br>- Breathable mesh upper<br>- Soft foam tongue<br>- Durable and engineered Nike React foam cushioning<br>- Long-lasting rubber outsole<br>- Reinforced stitching&nbsp;",
+        "shipment_type": "WH",
+        "color_name": "Black, Metallic Silver, Violet Dust & Sunset Pulse",
+        "color_hex": "#000000",
+        "cart_price_rules": null,
+        "attributes": null,
+        "simples": null,
+        "sustainability": null,
+        "link": "react-miler-women-s-1110457.html",
+        "activated_at": "2021-01-13 09:52:30",
+        "return_policy_message": {
+            "message": "This product qualifies for 30 day free returns",
+            "bold_substring": "free returns"
+        },
+        "categories_translated": "Shoes|Running|Performance Shoes",
+        "category_path": null,
+        "category_ids": null,
+        "related_products": null,
+        "image_products": null,
+        "attribute_set_identifier": "SF",
+        "supplier": "NIKE AUSTRALIA PTY LTD",
+        "wannaby_id": null,
+        "citrus_ad_id": null,
+        "associated_skus": "",
+        "size_guide_url": "https://www.theiconic.com.au/index/sizeguidemain?for=SF&brand=Nike&gender=female",
+        "related": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "variants": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "campaign_details": null,
+        "_embedded": {
+            "brand": {
+                "id": 126,
+                "name": "Nike",
+                "url_key": "nike",
+                "image_url": "http://static.theiconic.com.au/b/nike.jpg",
+                "banner_url": null,
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/brands/nike"
+                    }
+                }
+            },
+            "gender": {
+                "id": 2,
+                "name": "female",
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/genders/female"
+                    }
+                }
+            },
+            "shops": [
+                {
+                    "is_default": false,
+                    "name": "sports",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/sports"
+                        }
+                    }
+                },
+                {
+                    "is_default": true,
+                    "name": "shop",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/shop"
+                        }
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "url": "http://static.theiconic.com.au/p/nike-1022-7540111-1.jpg",
+                    "thumbnail": "//static.theiconic.com.au/p/nike-1022-7540111-1.jpg"
+                }
+            ]
+        },
+        "_links": {
+            "self": {
+                "href": "https://eve.theiconic.com.au/catalog/products/NI126SF06STD"
+            }
+        }
+    },
+    {
+        "video_count": 1,
+        "price": 90,
+        "markdown_price": 90,
+        "special_price": 0,
+        "returnable": true,
+        "final_sale": false,
+        "stock_update": null,
+        "final_price": 90,
+        "sku": "AS787AA12ZLZ",
+        "name": "Logo Fleece Sweater",
+        "ribbon": "new",
+        "messaging": {
+            "marketing": [
+                {
+                    "type": "new",
+                    "short": "New",
+                    "medium": "New arrival",
+                    "long": "New arrival",
+                    "color": "#42ABC8",
+                    "url": null
+                }
+            ],
+            "operational": []
+        },
+        "color_name_brand": "Green",
+        "short_description": "<b>Assembly Label</b> designs and delivers simplified, well-made apparel and accessories for an audience who craves a relaxed coastal lifestyle.<br><br>\nLength: 72cm (size AU 8). Our model is 175.3cm (5’9”) tall with a 78.7cm (31”) bust, a 61.0cm (24”) waist and 90.2cm (35.5”) hips.\n<br><br>\n- Pure cotton French terry; fleece-backed<br>\n- Brand print to chest<br><br> \n\nPLEASE NOTE: Due to the garment-dyeing process of this piece, we strongly advise against using stain removers or harsh detergents, which may affect the colour.",
+        "shipment_type": "WH",
+        "color_name": "Green",
+        "color_hex": "#c0d6c3",
+        "cart_price_rules": null,
+        "attributes": null,
+        "simples": null,
+        "sustainability": null,
+        "link": "logo-fleece-sweater-1133546.html",
+        "activated_at": "2021-01-15 10:16:09",
+        "return_policy_message": {
+            "message": "This product qualifies for 30 day free returns",
+            "bold_substring": "free returns"
+        },
+        "categories_translated": "Clothing|Sweats and Hoodies|Sweats",
+        "category_path": null,
+        "category_ids": null,
+        "related_products": null,
+        "image_products": null,
+        "attribute_set_identifier": "AA",
+        "supplier": "Modern Standard",
+        "wannaby_id": null,
+        "citrus_ad_id": null,
+        "associated_skus": "",
+        "size_guide_url": "https://www.theiconic.com.au/index/sizeguidemain?for=AA&brand=Assembly+Label&gender=female",
+        "related": {
+            "count": 7,
+            "label": "Colour",
+            "visible": true,
+            "message": "More colours available"
+        },
+        "variants": {
+            "count": 7,
+            "label": "Colour",
+            "visible": true,
+            "message": "More colours available"
+        },
+        "campaign_details": null,
+        "_embedded": {
+            "brand": {
+                "id": 787,
+                "name": "Assembly Label",
+                "url_key": "assembly",
+                "image_url": "http://static.theiconic.com.au/b/assembly.jpg",
+                "banner_url": null,
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/brands/assembly"
+                    }
+                }
+            },
+            "gender": {
+                "id": 2,
+                "name": "female",
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/genders/female"
+                    }
+                }
+            },
+            "shops": [
+                {
+                    "is_default": true,
+                    "name": "shop",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/shop"
+                        }
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "url": "http://static.theiconic.com.au/p/assembly-2268-6453311-1.jpg",
+                    "thumbnail": "//static.theiconic.com.au/p/assembly-2268-6453311-1.jpg"
+                }
+            ]
+        },
+        "_links": {
+            "self": {
+                "href": "https://eve.theiconic.com.au/catalog/products/AS787AA12ZLZ"
+            }
+        }
+    },
+    {
+        "video_count": 0,
+        "price": 90,
+        "markdown_price": 90,
+        "special_price": 0,
+        "returnable": true,
+        "final_sale": false,
+        "stock_update": null,
+        "final_price": 90,
+        "sku": "AS787AA58WZL",
+        "name": "Logo Fleece Sweater",
+        "ribbon": "new",
+        "messaging": {
+            "marketing": [
+                {
+                    "type": "new",
+                    "short": "New",
+                    "medium": "New arrival",
+                    "long": "New arrival",
+                    "color": "#42ABC8",
+                    "url": null
+                }
+            ],
+            "operational": []
+        },
+        "color_name_brand": "Silver Grey / White",
+        "short_description": "<b>Assembly Label</b> designs and delivers simplified, well-made apparel and accessories for an audience who craves a relaxed coastal lifestyle.<br><br>\nLength: 72cm (size AU 8). Our model is 175.3cm (5’9”) tall with a 78.7cm (31”) bust, a 61.0cm (24”) waist and 90.2cm (35.5”) hips.\n<br><br>\n- Pure cotton French terry; fleece-backed<br>\n- Brand print to chest<br><br> \n\nPLEASE NOTE: Due to the garment-dyeing process of this piece, we strongly advise against using stain removers or harsh detergents, which may affect the colour.",
+        "shipment_type": "WH",
+        "color_name": "Silver Grey / White",
+        "color_hex": "#ffffff",
+        "cart_price_rules": null,
+        "attributes": null,
+        "simples": null,
+        "sustainability": null,
+        "link": "logo-fleece-sweater-1199961.html",
+        "activated_at": "2021-01-15 10:31:34",
+        "return_policy_message": {
+            "message": "This product qualifies for 30 day free returns",
+            "bold_substring": "free returns"
+        },
+        "categories_translated": "Clothing|Sweats and Hoodies|Sweats",
+        "category_path": null,
+        "category_ids": null,
+        "related_products": null,
+        "image_products": null,
+        "attribute_set_identifier": "AA",
+        "supplier": "Modern Standard",
+        "wannaby_id": null,
+        "citrus_ad_id": null,
+        "associated_skus": "",
+        "size_guide_url": "https://www.theiconic.com.au/index/sizeguidemain?for=AA&brand=Assembly+Label&gender=female",
+        "related": {
+            "count": 6,
+            "label": "Colour",
+            "visible": true,
+            "message": "More colours available"
+        },
+        "variants": {
+            "count": 6,
+            "label": "Colour",
+            "visible": true,
+            "message": "More colours available"
+        },
+        "campaign_details": null,
+        "_embedded": {
+            "brand": {
+                "id": 787,
+                "name": "Assembly Label",
+                "url_key": "assembly",
+                "image_url": "http://static.theiconic.com.au/b/assembly.jpg",
+                "banner_url": null,
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/brands/assembly"
+                    }
+                }
+            },
+            "gender": {
+                "id": 2,
+                "name": "female",
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/genders/female"
+                    }
+                }
+            },
+            "shops": [
+                {
+                    "is_default": true,
+                    "name": "shop",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/shop"
+                        }
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "url": "http://static.theiconic.com.au/p/assembly-2349-1699911-1.jpg",
+                    "thumbnail": "//static.theiconic.com.au/p/assembly-2349-1699911-1.jpg"
+                }
+            ]
+        },
+        "_links": {
+            "self": {
+                "href": "https://eve.theiconic.com.au/catalog/products/AS787AA58WZL"
+            }
+        }
+    },
+    {
+        "video_count": 0,
+        "price": 69,
+        "markdown_price": 69,
+        "special_price": 0,
+        "returnable": true,
+        "final_sale": false,
+        "stock_update": null,
+        "final_price": 69,
+        "sku": "NA267BT36RGX",
+        "name": "Stroke of Genius Liquid Cashmere Foundation Look 3",
+        "ribbon": null,
+        "messaging": {
+            "marketing": [],
+            "operational": []
+        },
+        "color_name_brand": "Look 3 - Golden",
+        "short_description": "This&nbsp;<b>Napoleon Perdis Stroke of Genius Liquid Cashmere Foundation Look 3&nbsp;</b>is an&nbsp;easy-to-apply liquid foundation offers medium coverage with a luxurious, cashmere-feel finish.&nbsp;<br /><br />- Built-in brush applicator twists on and off to save mess, wastage, and the need to use your fingers&nbsp;<br />-\tSoft-focus Spheres help to minimise the appearance of fine lines and wrinkles<br />- Microlens Pure Light Technology boosts radiance and dials down darkness and shadows<br />- Velvet and Biopolymer Spheres act as friendly filters to assist in smoothing out the skin<br />- Green Tea Leaf Extract, Japanese Knotweed Root Extract and Vitamins C and E provide antioxidant protection<br />- Paraben, oil and gluten free<br />- 30mL<br />- COVERAGE: Medium<br />- FINISH: Creamy Cashmere<br /><br />UNDERTONES:<br />- LOOK 1 - Golden<br />- LOOK 2 - Golden<br />- LOOK 2B - Neutral<br />- LOOK 3 - Golden<br />- LOOK 4 - Golden<br /><br />Active Ingredients: Octinoxate (7.5%), Titanium Dioxide (4.0%).<br />Other Ingredients: Water (Aqua), Cyclopentasiloxane, Butylene Glycol, Phenyl Trimethicone, Peg-10 Dimethicone, Dimethicone, Silica, Cetyl Peg/Ppg-10/1 Dimethicone, Diisostearyl Dimer Dilinoleate, Tocopherol, Tocopheryl Acetate, Ascorbyl Palmitate, Polygonum Cuspidatum (Japanese Knotweed) Root Extract, Camellia Oleifera (Green Tea) Leaf Extract, Centella Asiatica Extract, Echinacea Purpurea (Purple Coneflower) Extract, Polysilicone-11, Aluminum Hydroxide, Stearic Acid, Hydrogenated Lecithin, Disteardimonium Hectorite, Cellulose Gum, Bisabolol, Methicone, Nylon-12 Fluorescent Brightener 230 Salt, Polyvinylalcohol Crosspolymer, Triethoxycaprylylsilane, Sodium Benzoate, Polyurethane-40, Pentaerythrityl Tetraisostearate, Silica Dimethyl Silylate, Sodium Chondroitin Sulfate, Atelocollagen, Sodium Chloride, Sodium Dehydroacetate, Hexylene Glycol, Caprylyl Glycol, Phenoxyethanol, Disodium Edta, Mica, Titanium Dioxide (Ci 77891), Iron Oxides (Ci 77491, Ci 77492, Ci 77499).<br /><br /> At THE ICONIC we do our best to provide you with accurate information about product ingredients, based on information provided to us by our Suppliers. For the most complete and up-to-date information, please refer to the product packaging.",
+        "shipment_type": "DS",
+        "color_name": "Look 3 - Golden",
+        "color_hex": "#d09657",
+        "cart_price_rules": null,
+        "attributes": null,
+        "simples": null,
+        "sustainability": null,
+        "link": "stroke-of-genius-liquid-cashmere-foundation-look-3-1123170.html",
+        "activated_at": "2020-07-22 14:17:02",
+        "return_policy_message": {
+            "message": "This product qualifies for 30 day free returns",
+            "bold_substring": "free returns"
+        },
+        "categories_translated": "Beauty|Make-up|Face",
+        "category_path": null,
+        "category_ids": null,
+        "related_products": null,
+        "image_products": null,
+        "attribute_set_identifier": "BT",
+        "supplier": "Napoleon Perdis",
+        "wannaby_id": null,
+        "citrus_ad_id": null,
+        "associated_skus": "TE171BT01AXY|NA267BT41NAK",
+        "size_guide_url": null,
+        "related": {
+            "count": 4,
+            "label": "Shade",
+            "visible": true,
+            "message": "More shades available"
+        },
+        "variants": {
+            "count": 4,
+            "label": "Shade",
+            "visible": true,
+            "message": "More shades available"
+        },
+        "campaign_details": null,
+        "_embedded": {
+            "brand": {
+                "id": 5267,
+                "name": "Napoleon Perdis",
+                "url_key": "napoleon-perdis",
+                "image_url": null,
+                "banner_url": null,
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/brands/napoleon-perdis"
+                    }
+                }
+            },
+            "gender": {
+                "id": 2,
+                "name": "female",
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/genders/female"
+                    }
+                }
+            },
+            "shops": [
+                {
+                    "is_default": true,
+                    "name": "shop",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/shop"
+                        }
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "url": "http://static.theiconic.com.au/p/napoleon-perdis-4264-0713211-1.jpg",
+                    "thumbnail": "//static.theiconic.com.au/p/napoleon-perdis-4264-0713211-1.jpg"
+                }
+            ]
+        },
+        "_links": {
+            "self": {
+                "href": "https://eve.theiconic.com.au/catalog/products/NA267BT36RGX"
+            }
+        }
+    },
+    {
+        "video_count": 0,
+        "price": 170,
+        "markdown_price": 170,
+        "special_price": 0,
+        "returnable": true,
+        "final_sale": false,
+        "stock_update": null,
+        "final_price": 170,
+        "sku": "AD660SH17IOW",
+        "name": "ZX 1K Boost Sneakers - Unisex",
+        "ribbon": "new",
+        "messaging": {
+            "marketing": [
+                {
+                    "type": "new",
+                    "short": "New",
+                    "medium": "New arrival",
+                    "long": "New arrival",
+                    "color": "#42ABC8",
+                    "url": null
+                }
+            ],
+            "operational": []
+        },
+        "color_name_brand": "Cloud White",
+        "short_description": "A sleek, timeless design fused with maximum comfort, the<b> ZX 1K Boost Sneakers</b> by <b>adidas Originals </b>are ready to support no matter what the day brings. \n<br><br>\n- Knit mesh upper <br>\n- Padded heel collar <br>\n- Half-Boost, half-EVA mid-sole <br>\n- Rubber outsole ",
+        "shipment_type": "WH",
+        "color_name": "Cloud White",
+        "color_hex": "#ffffff",
+        "cart_price_rules": null,
+        "attributes": null,
+        "simples": null,
+        "sustainability": null,
+        "link": "zx-1k-boost-sneakers-unisex-1183953.html",
+        "activated_at": "2021-01-15 11:18:03",
+        "return_policy_message": {
+            "message": "This product qualifies for 30 day free returns",
+            "bold_substring": "free returns"
+        },
+        "categories_translated": "Shoes|Sneakers|Low-Tops|Lifestyle Shoes|Low Top Sneakers|Lifestyle Sneakers",
+        "category_path": null,
+        "category_ids": null,
+        "related_products": null,
+        "image_products": null,
+        "attribute_set_identifier": "SH",
+        "supplier": "Adidas Australia Pty Ltd",
+        "wannaby_id": null,
+        "citrus_ad_id": null,
+        "associated_skus": "",
+        "size_guide_url": "https://www.theiconic.com.au/index/sizeguidemain?for=SH&brand=adidas+Originals&gender=unisex",
+        "related": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "variants": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "campaign_details": null,
+        "_embedded": {
+            "brand": {
+                "id": 1660,
+                "name": "adidas Originals",
+                "url_key": "adidas-originals",
+                "image_url": "http://static.theiconic.com.au/b/adidas-originals.jpg",
+                "banner_url": null,
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/brands/adidas-originals"
+                    }
+                }
+            },
+            "gender": {
+                "id": 3,
+                "name": "unisex",
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/genders/unisex"
+                    }
+                }
+            },
+            "shops": [
+                {
+                    "is_default": false,
+                    "name": "sports",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/sports"
+                        }
+                    }
+                },
+                {
+                    "is_default": true,
+                    "name": "shop",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/shop"
+                        }
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "url": "http://static.theiconic.com.au/p/adidas-originals-4659-3593811-1.jpg",
+                    "thumbnail": "//static.theiconic.com.au/p/adidas-originals-4659-3593811-1.jpg"
+                }
+            ]
+        },
+        "_links": {
+            "self": {
+                "href": "https://eve.theiconic.com.au/catalog/products/AD660SH17IOW"
+            }
+        }
+    },
+    {
+        "video_count": 1,
+        "price": 100,
+        "markdown_price": 100,
+        "special_price": 0,
+        "returnable": true,
+        "final_sale": false,
+        "stock_update": null,
+        "final_price": 100,
+        "sku": "NI126SA09VXI",
+        "name": "Nike One Luxe Mid-Rise Tights",
+        "ribbon": "new",
+        "messaging": {
+            "marketing": [
+                {
+                    "type": "new",
+                    "short": "New",
+                    "medium": "New arrival",
+                    "long": "New arrival",
+                    "color": "#42ABC8",
+                    "url": null
+                }
+            ],
+            "operational": []
+        },
+        "color_name_brand": "Dark Raisin & Clear",
+        "short_description": "American sportswear giant <b>Nike</b> has established an inimitable reputation for performance and innovation. Combining a technical understanding of an athlete’s needs with a strong eye for style, <b>Nike</b> has become the go-to for professional and amateur athletes alike. With a roster that spans apparel, shoes and accessories suitable for any and every athletic pursuit, <b>Nike</b> has positioned themselves as a leader in their field with an extensive range that encompasses every aspect of a healthy lifestyle. From performance footwear to printed tights to moisture wicking running shorts, their extensive range of athletic products is designed to help keep you at the top of your game.<br><br>Length: Inside Leg: 77cm, Front Rise: 25cm, Leg Opening: 20cm (size small).&nbsp;Our model is 175.3cm (5’9”) tall with a 82.6cm (32.5”) bust, a 61.0cm (24”) waist and 88.9cm (35”) hips.<br><br>- Dri-FIT performance technology; generous stretch; opaque<br>- Mid-rise; full-length<br>- Inner waistband pocket at rear",
+        "shipment_type": "WH",
+        "color_name": "Dark Raisin & Clear",
+        "color_hex": "#4a384a",
+        "cart_price_rules": null,
+        "attributes": null,
+        "simples": null,
+        "sustainability": null,
+        "link": "nike-one-luxe-mid-rise-tights-1108891.html",
+        "activated_at": "2021-01-15 09:33:11",
+        "return_policy_message": {
+            "message": "This product qualifies for 30 day free returns",
+            "bold_substring": "free returns"
+        },
+        "categories_translated": "Clothing|Tights|Sports Tights|Full Tights",
+        "category_path": null,
+        "category_ids": null,
+        "related_products": null,
+        "image_products": null,
+        "attribute_set_identifier": "SA",
+        "supplier": "NIKE AUSTRALIA PTY LTD",
+        "wannaby_id": null,
+        "citrus_ad_id": null,
+        "associated_skus": "",
+        "size_guide_url": "https://www.theiconic.com.au/index/sizeguidemain?for=SA&brand=Nike&gender=female",
+        "related": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "variants": {
+            "count": 0,
+            "label": "Colour",
+            "visible": true,
+            "message": null
+        },
+        "campaign_details": null,
+        "_embedded": {
+            "brand": {
+                "id": 126,
+                "name": "Nike",
+                "url_key": "nike",
+                "image_url": "http://static.theiconic.com.au/b/nike.jpg",
+                "banner_url": null,
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/brands/nike"
+                    }
+                }
+            },
+            "gender": {
+                "id": 2,
+                "name": "female",
+                "_links": {
+                    "self": {
+                        "href": "https://eve.theiconic.com.au/catalog/genders/female"
+                    }
+                }
+            },
+            "shops": [
+                {
+                    "is_default": false,
+                    "name": "sports",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/sports"
+                        }
+                    }
+                },
+                {
+                    "is_default": true,
+                    "name": "shop",
+                    "_links": {
+                        "self": {
+                            "href": "https://eve.theiconic.com.au/catalog/shops/shop"
+                        }
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "url": "http://static.theiconic.com.au/p/nike-3781-1988011-1.jpg",
+                    "thumbnail": "//static.theiconic.com.au/p/nike-3781-1988011-1.jpg"
+                }
+            ]
+        },
+        "_links": {
+            "self": {
+                "href": "https://eve.theiconic.com.au/catalog/products/NI126SA09VXI"
+            }
+        }
+    }
+]
